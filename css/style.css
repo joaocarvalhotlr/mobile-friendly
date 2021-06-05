@@ -46,7 +46,7 @@ a {
 
 #navbar {
     width: 100%;
-    background: #111;
+    background: rgba(0,0,0,0.5);
     color: #eee;
     height: 80px;
     position: fixed;
