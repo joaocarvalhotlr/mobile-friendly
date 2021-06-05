@@ -1,6 +1,6 @@
 #navbar  {
     height: 180px;
-    position: relative;
+    position: absolute;
 }
 
 #navbar-container {
