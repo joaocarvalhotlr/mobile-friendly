@@ -6,6 +6,10 @@
     margin: 0;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
 }
@@ -195,6 +199,7 @@ a {
     border-radius: 50%;
     margin: 15px ;
 }
+
 
 #footer {
     background: #222;
